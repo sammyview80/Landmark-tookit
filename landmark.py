@@ -2,7 +2,6 @@ import os
 import time
 import cv2 as cv
 import pandas as pd
-import numpy as np
 from save_csv import save
 
 class Main:
