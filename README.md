@@ -2,8 +2,8 @@
 
 ## Simple landmarktool using opencv python.
 Requirements:
-opencv: pip install opencv-python
-pandas: pip install pandas
+1. opencv: pip install opencv-python
+2. pandas: pip install pandas
 
 Guids:
 1. Upload the images in Upload_image_here
