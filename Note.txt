@@ -1,0 +1,6 @@
+This program takes image of any shape and converts to (200, 200, 3).
+The co-ordinate are set base on x-axis = 200, y-axis = 200.
+
+'r' for reset.
+Any key for next.
+Esc for exit.
